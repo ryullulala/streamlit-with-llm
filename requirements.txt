@@ -1,0 +1,5 @@
+streamlit
+langchain
+chromadb
+unstructured==0.7.12
+langchain-google-vertexai
